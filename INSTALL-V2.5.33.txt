@@ -1,0 +1,13 @@
+KATTERUMS JAKTLAG v2.5.33
+
+Ren version byggd fran stabil v2.5.31.
+
+Andringar:
+- Den gamla v2.3.1-test-markeringen och Testbackend-raden ar borttagna.
+- Kalenderns befintliga molnmodul har fatt korrigerad radering direkt i samma modul.
+- Chattens befintliga molnmodul visar Radera for admin/jaktledare och raderar fran Supabase.
+- Ingen extra wrapper har lagts runt kalender-, chatt- eller save-funktionerna.
+- Kalender-, chatt- och Info-synk fran v2.5.31 ar i ovrigt oforandrad.
+- Alla fil- och cacheversioner ar 2.5.33 / 2533.
+
+Ingen ny SQL behovs.
